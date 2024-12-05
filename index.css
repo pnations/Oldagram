@@ -17,6 +17,12 @@ header {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
     padding: 10px 20px;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    right: 0;
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .header-container {
@@ -26,6 +32,13 @@ header {
     max-width: 600px;
     margin: 0 auto;
 }
+
+main {
+    padding: 80px 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 
 .logo, .user-avatar {
     height: 40px;
@@ -40,14 +53,6 @@ header {
     border-radius: 50%;
     z-index: 1000; 
 }
-
-
-main {
-    padding: 20px;
-    max-width: 600px;
-    margin: 0 auto;
-}
-
 
 .post {
     background-color: #fff;
