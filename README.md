@@ -45,7 +45,7 @@
    ```
 2. Navigate to the project directory:
    ```bash
-   cd oldagram
+   cd Oldagram
    ```
 3. Open the `index.html` file in your browser to view the app.
 
