@@ -41,7 +41,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pnations/oldagram.git
+   git clone https://github.com/YOUR_USERNAME/oldagram.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -67,7 +67,7 @@
 [Live Demo](https://philipnations.com/project-5)
 
 You can view the source code and set up the project locally from the repository:  
-[Oldagram Repository](https://github.com/pnations/oldagram)
+[Oldagram Repository](https://github.com/your-feature-name/oldagram)
 
 ---
 
