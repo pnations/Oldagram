@@ -5,6 +5,8 @@
 
 **Oldagram** is an Instagram-inspired web application designed to mimic the classic functionality of a photo-sharing platform. Built using **HTML** and **CSS**, the app includes functional buttons for liking, commenting, and direct messaging, along with a clean and responsive design.
 
+<img width="1401" alt="Screenshot 2025-02-27 at 9 16 12 AM" src="https://github.com/user-attachments/assets/9ea93d42-b6ca-4863-a6c4-4abbcd915b07" />
+
 ---
 
 ## 🚀 Features
